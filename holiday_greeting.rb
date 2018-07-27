@@ -1,4 +1,4 @@
 def holiday_greeting (your_name)
-puts "You are pretty, #{your_name}!"
+puts "Happy Fourth of July, #{your_name}!"
 end
-holiday_greeting ("Banu")
+holiday_greeting ("Nimet")
